@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ustjavafsdb420
+Build-Jdk: 17.0.5
+Implementation-Title: students crud app
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.ochibooh
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/student_teacher_crud
+Created-By: Maven Integration for Eclipse
+
